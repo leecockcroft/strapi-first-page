@@ -8,5 +8,6 @@ export default [
   'strapi::body',
   'strapi::session',
   'strapi::favicon',
+  'strapi::cors', // 👈 this enables CORS
   'strapi::public',
 ];
